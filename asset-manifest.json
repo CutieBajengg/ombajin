@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/ombajin/static/css/main.e6c13ad2.css",
-    "main.js": "/ombajin/static/js/main.63f2acd9.js",
+    "main.js": "/ombajin/static/js/main.f6daa408.js",
     "static/js/453.e197fae3.chunk.js": "/ombajin/static/js/453.e197fae3.chunk.js",
+    "static/media/project.png": "/ombajin/static/media/project.0939cc4cc726f1e25995.png",
     "index.html": "/ombajin/index.html",
     "main.e6c13ad2.css.map": "/ombajin/static/css/main.e6c13ad2.css.map",
-    "main.63f2acd9.js.map": "/ombajin/static/js/main.63f2acd9.js.map",
+    "main.f6daa408.js.map": "/ombajin/static/js/main.f6daa408.js.map",
     "453.e197fae3.chunk.js.map": "/ombajin/static/js/453.e197fae3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.63f2acd9.js"
+    "static/js/main.f6daa408.js"
   ]
 }
